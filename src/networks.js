@@ -35,8 +35,8 @@ module.exports = {
   komodo: {
     messagePrefix: '\x19zcash Signed Message:\n',
     bip32: {
-      public: 0x0588b21e,
-      private: 0x0588ade4
+      public: 0x0488b21e,
+      private: 0x0488ade4
     },
     pubKeyHash: 0x3c,
     scriptHash: 0x55,
